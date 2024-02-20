@@ -40,9 +40,9 @@ http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/9725.ts
 ##Entertainment
 
 #EXTINF:-1 tvg-id="144" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+http://d4k4u.com:8080/brahim24_391330/rL4KzMj6/276925
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="Entertainment",Colors Infinity
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
+http://d4k4u.com:8080/brahim24_391330/rL4KzMj6/277305
 #EXTINF:-1 tvg-id="1157" tvg-logo="https://i.imgur.com/g0caQa2.png" group-title="Entertainment",Comedy Central India
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-id="SonySubHD.in" group-title="Entertainment",SONY SAB HD
@@ -71,6 +71,8 @@ http://supersonictv.live:8080/259605/087951/22121
 http://supersonictv.live:8080/259605/087951/22946
 
 
+##Music
+
 #EXTINF:-1 tvg-id="jio755" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="Music",MTV Beats HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM
@@ -87,6 +89,8 @@ http://watchindia.net:8880/live/58199/33239/798.ts
 http://watchindia.net:8880/live/58199/33239/826.ts
 #EXTINF:-1 tvg-id="E24" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png" group-title="Music",E24 (IN)
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/6/AmazonStores/A21TJRUUN4KGV/0c988a3576aa0ea7a83d43221906c21d.w400.h400.png" group-title="Music", Shemaroo Filmigaane
+http://d4k4u.com:8080/brahim24_391330/rL4KzMj6/513300
 
 
 
@@ -217,7 +221,8 @@ http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/98915.ts
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/23427.ts
 #EXTINF:-1 group-title="English Movies",USA: ADULT SWIM
 http://supersonictv.live:8080/259605/087951/22043
-
+#EXTINF:-1 group-title="English Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",B4U Movies
+http://d4k4u.com:8080/brahim24_391330/rL4KzMj6/513308
 
 
 
