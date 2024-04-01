@@ -27,7 +27,7 @@ https://ythls.armelin.one/channel/UCBwc2cbPpvxNCNEI2-8YrqQ.m3u8
 http://xtv.ooo:8080/check5732/check12092/244801
 #EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://watchindia.net/images/channels/hindi/India_Today_TV.png" group-title="News",India Today
 http://xtv.ooo:8080/check5732/check12092/244809
-#EXTINF:-1 tvg-id="REPUBLIC TV" tvg-name="Republic TV News" tvg-logo="https://www.republicbharat.com/styles/images/republic-logo-eng.svg" group-title="News",REPUBLIC TV
+#EXTINF:-1 tvg-id="Republic TV" tvg-name="Republic TV News" tvg-logo="https://www.republicbharat.com/styles/images/republic-logo-eng.svg" group-title="News",REPUBLIC TV
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
 #EXTINF:-1 tvg-id="Republic Bharat" tvg-name="Republic Bharat" tvg-logo="https://www.republicbharat.com/styles/images/republic-logo-bharat.svg" group-title="News",Republic Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
