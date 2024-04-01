@@ -29,7 +29,7 @@ http://xtv.ooo:8080/check5732/check12092/244801
 http://xtv.ooo:8080/check5732/check12092/244809
 #EXTINF:-1 tvg-id="Republic TV" tvg-name="Republic TV News" tvg-logo="https://www.republicbharat.com/styles/images/republic-logo-eng.svg" group-title="News",Republic TV
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
-#EXTINF:-1 tvg-id="R Bharat" tvg-name="Republic Bharat" tvg-logo="https://www.republicbharat.com/styles/images/republic-logo-bharat.svg" group-title="News",Republic Bharat
+#EXTINF:-1 tvg-id="R Bharat" tvg-name="Republic Bharat" tvg-logo="https://www.republicbharat.com/styles/images/republic-logo-bharat.svg" group-title="News",R Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-1 tvg-id="Republic Kannada" tvg-name="Republic Kannada" tvg-logo="https://www.republicbharat.com/styles/images/R.Kannada-logo.svg" group-title="News",Republic Kannada
 https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
