@@ -80,7 +80,7 @@ http://supersonictv.live:8080/259605/087951/22946
 
 #EXTINF:-1 tvg-id="jio755" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="Music",MTV Beats HD
 http://mag.trexlive.me:80/Michael88/Michael88/156031
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://logo.protv.cc/picons/logos/musicindia.png" group-title="Music",Music India
+#EXTINF:-1 tvg-id="Music India" tvg-logo="http://logo.protv.cc/picons/logos/musicindia.png" group-title="Music",Music India
 http://mag.trexlive.me:80/Michael88/Michael88/156056
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
