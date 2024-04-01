@@ -163,7 +163,7 @@ https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 ##http://watchindia.net:8880/live/58199/33239/788.ts
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="Hindi Movies",Zee Classic
-http://watchindia.net:8880/live/58199/33239/802.ts
+http://xtv.ooo:8080/check5732/check12092/66201
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="Hindi Movies",Zee Bollywood
 http://watchindia.net:8880/live/58199/33239/822.ts
 #EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Hindi Movies",Zee Action
