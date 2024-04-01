@@ -16,7 +16,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in" tvg-logo="https://i.imgur.com/kSCozXg.png" group-title="News",Times Now Navbharat HD
 https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="timesnow.in" tvg-name="Times Now" tvg-logo="https://watchindia.net/images/channels/hindi/Times_Now.png" group-title="News",Times Now
-http://watchindia.net:8880/live/58199/33239/839.ts
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ZeeKannadaNews.in" tvg-logo="https://i.ibb.co/D4S3S0c/Zee-Kannada-News-2022.png" group-title="News",Zee Kannada News
 https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
