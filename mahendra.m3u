@@ -79,26 +79,66 @@ http://supersonictv.live:8080/259605/087951/22946
 ##Music
 
 #EXTINF:-1 tvg-id="jio755" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="Music",MTV Beats HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+http://mag.trexlive.me:80/Michael88/Michael88/156031
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://logo.protv.cc/picons/logos/musicindia.png" group-title="Music",Music India
+http://mag.trexlive.me:80/Michael88/Michael88/156056
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom" tvg-logo="https://watchindia.net/images/channels/hindi/Zoom.png" group-title="Music",Zoom
-http://watchindia.net:8880/live/58199/33239/842.ts
 #EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Music",9X Jalwa
-http://watchindia.net:8880/live/58199/33239/828.ts
+http://mag.trexlive.me:80/Michael88/Michael88/1112137
 #EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="Music",B4U Music
-http://watchindia.net:8880/live/58199/33239/2113.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Music",Kadak Hits HD
-http://watchindia.net:8880/live/58199/33239/798.ts
+http://mag.trexlive.me:80/Michael88/Michael88/42444
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Music",Kadak Hits
+http://mag.trexlive.me:80/Michael88/Michael88/156167
 #EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Music",Mastiii
-http://watchindia.net:8880/live/58199/33239/826.ts
-#EXTINF:-1 tvg-id="E24" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png" group-title="Music",E24 (IN)
+http://mag.trexlive.me:80/Michael88/Michael88/156050
+#EXTINF:-1 tvg-id="E24" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png" group-title="Music",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/6/AmazonStores/A21TJRUUN4KGV/0c988a3576aa0ea7a83d43221906c21d.w400.h400.png" group-title="Music", Shemaroo Filmigaane
-http://d4k4u.com:8080/brahim24_391330/rL4KzMj6/513300
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",IN: 24/7 MUSIC 01
+http://xtv.ooo:8080/check5732/check12092/219498
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 02" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",IN: 24/7 MUSIC 02
+http://xtv.ooo:8080/check5732/check12092/270503
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 03" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",IN: 24/7 MUSIC 03
+http://xtv.ooo:8080/check5732/check12092/270504
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 04" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 04
+http://xtv.ooo:8080/check5732/check12092/270505
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 05" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 05
+http://xtv.ooo:8080/check5732/check12092/270506
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 06" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 06
+http://xtv.ooo:8080/check5732/check12092/270507
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 07" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 07
+http://xtv.ooo:8080/check5732/check12092/270508
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 08" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 08
+http://xtv.ooo:8080/check5732/check12092/270509
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 09" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 09
+http://xtv.ooo:8080/check5732/check12092/270510
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 10" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 10
+http://xtv.ooo:8080/check5732/check12092/270511
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 11" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 11
+http://xtv.ooo:8080/check5732/check12092/270512
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 12" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 12
+http://xtv.ooo:8080/check5732/check12092/270513
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 13" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 13
+http://xtv.ooo:8080/check5732/check12092/270514
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 14" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 14
+http://xtv.ooo:8080/check5732/check12092/270515
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 15" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 15
+http://xtv.ooo:8080/check5732/check12092/270516
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 16" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 16
+http://xtv.ooo:8080/check5732/check12092/270517
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 17" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 17
+http://xtv.ooo:8080/check5732/check12092/270518
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 18" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 18
+http://xtv.ooo:8080/check5732/check12092/362865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 19" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 19
+http://xtv.ooo:8080/check5732/check12092/362866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 20" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 20
+http://xtv.ooo:8080/check5732/check12092/362867
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 21" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 21
+http://xtv.ooo:8080/check5732/check12092/362868
 
 
-
+##kids
 
 #EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
@@ -121,31 +161,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="Kids",GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
-#EXTINF:-1 group-title="Kids", 24/7 Dragon Ball Z Kai
-http://supersonictv.live:8080/259605/087951/79614
-#EXTINF:-1 group-title="Kids", 24/7 Dragon Ball Z
-http://supersonictv.live:8080/259605/087951/78996
-#EXTINF:-1 group-title="Kids",USA Disney Channel East UHD
-http://supersonictv.live:8080/259605/087951/21795
-#EXTINF:-1 group-title="Kids",USA Disney Channel West LHD
-http://supersonictv.live:8080/259605/087951/21796
-#EXTINF:-1 group-title="Kids",USA Disney Channel Paficic
-http://supersonictv.live:8080/259605/087951/21797
-#EXTINF:-1 group-title="Kids",USA Disney Junior UHD
-http://supersonictv.live:8080/259605/087951/21798
-#EXTINF:-1 group-title="Kids",USA Disney Junior West LHD
-http://supersonictv.live:8080/259605/087951/21799
-#EXTINF:-1 group-title="Kids",USA Disney Junior Pacific
-http://supersonictv.live:8080/259605/087951/21800
-#EXTINF:-1 group-title="Kids",USA Disney XD UHD
-http://supersonictv.live:8080/259605/087951/21801
-#EXTINF:-1 group-title="Kids",USA Disney XD West LHD
-http://supersonictv.live:8080/259605/087951/21802
-#EXTINF:-1 group-title="Kids",USA Disney XD Pacific
-http://supersonictv.live:8080/259605/087951/21803
 
-
-
+##Movies
 
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi Movies",STAR GOLD HD
 http://watchindia.net:8880/live/58199/33239/785.ts
@@ -172,6 +189,8 @@ http://watchindia.net:8880/live/58199/33239/821.ts
 http://watchindia.net:8880/live/58199/33239/2102.ts
 #EXTINF:-1 tvg-id="romedynow.in" tvg-name="Romedy Now" tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png" group-title="English Movies",Romedy Now
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/179.ts
+#EXTINF:-1 tvg-id="Shemaroo Bollywood" tvg-name="Shemaroo Bollywood" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/large_16_9_webp.webp" group-title="Hindi Movies",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb573d197a6c628884c23f78d1f24282bf7b3dcb0e6c886470af4a9765d96208d6e5af87b208b7634ce6419a34567d2c0c34db66bd6c69d7df7ab65031770736dc92b379dd871210a2af5a7971ec651c51ff0e15d1255232ffe0080d8332ad365441bc473e1476d9e90cfb2550c48317dd7f2a8fb0dc606c2847579c0e08f8f558a5aab35a10896fa8b4192ad3157adf44cdb4fe2ec2fec66ee71dd22fa036a2a8c2fab03019525c518363c32700595812f175e2bebb3494df946e3890643a535c268e365cd33c5ead663935d3fed9b164eb12c5886fe90a51ee56c81fd462d829c27dd64dc0090e99520b61407257c6d53fa5d680c0971420b467b489e6d1787d8df72e9126a359f52d31319cf1ca5bd18d45d6fe0e84b760132ccf824dc0dd9b8dfbb5810ab124c987dbab7d7a0e32544cd708f9da7fcd738c2afc8043681c6a41ae915a8bd4890f60321ed6d11ef21a09bcdd849b905f699e2e4b28850abd74362cf446092db563a8cf462ee341278a2f34f75434fa2cdab13ef0a1d4fd4676f5f1f402c72d88910fc1fd16a67d363b54eaea4d9090b2616ff54220c5368e3de2d2a13b/69/1280x720_2657019/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=http://extratvteam-tata-playlist.vercel.app/api/key.php?id=267 
 #EXTINF:-1 tvg-id="267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Movies",&pictures HD https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd?begin=20240221T060000&end=20240229T060000 
@@ -216,6 +235,8 @@ http://watchindia.net:8880/live/58199/33239/2180.ts
 http://watchindia.net:8880/live/58199/33239/2170.ts
 #EXTINF:-1 tvg-id="CRACKLE" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/11/Crackle-Logo.png"  group-title="English Movies",CRACKLE (US)
 https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Classic Cinema" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-44333-jz3hpme0-v4%2FimageContent-44333-jz3hpme0-m8.png&w=256&q=75" group-title="Hindi Movies",Tata Play Classic Cinema
+http://mag.trexlive.me:80/Michael88/Michael88/155994
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES FHD" tvg-logo="" group-title="English Movies",STAR MOVIES Select HD
 http://675348658202778899.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/778899.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="" group-title="English Movies", HBO Hits HD
