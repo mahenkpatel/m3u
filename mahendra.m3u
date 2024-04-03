@@ -79,7 +79,8 @@ http://supersonictv.live:8080/259605/087951/22121
 http://supersonictv.live:8080/259605/087951/22946
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/vm2VwySK/a3bJ6x5.png",AFV Family
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
-
+#EXTINF:-1 tvg-id="The Pet Collective" group-title="Entertainment" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/the_pet_collective.png?raw=true",The Pet Collective
+https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_ThePetCollective/playlist.m3u8
 
 ##Music
 
@@ -165,7 +166,8 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="Kids",GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/cartoon_network.png?raw=true"  group-title="Kids",Cartoon Network
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 
 ##Movies
@@ -266,8 +268,8 @@ http://watchindia.net:8880/live/58199/33239/789.ts
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="National Geographic HD" tvg-logo="https://watchindia.net/images/channels/hindi/National_Geographic_HD.png" group-title="Info",National Geographic HD
 http://watchindia.net:8880/live/58199/33239/790.ts
-#EXTINF:-1 tvg-id="tlc.in" tvg-name="TLC Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/TLC.png" group-title="Info",TLC Hindi
-http://watchindia.net:8880/live/58199/33239/840.ts
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/tlc.png?raw=true" group-title="Info",TLC HD
+https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #EXTINF:-1 tvg-id="zee.zest.in" tvg-name="Zee Zest HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="Info",Zee Zest HD
 http://watchindia.net:8880/live/58199/33239/2359.ts
 #EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://watchindia.net/images/channels/hindi/Epic_HD.png" group-title="Info",Epic
@@ -280,10 +282,8 @@ http://watchindia.net:8880/live/58199/33239/2579.ts
 http://watchindia.net:8880/live/58199/33239/2303.ts
 #EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg" group-title="Info",Discovery Channel
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-#EXTINF:-1 tvg-id=" DiscoveryChannelHindi.in" tvg-name="Discovery Channel Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Info", Discovery Channel Hindi
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg" group-title="Info", Discovery Science
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-id=" DiscoveryChannel.in" tvg-name="Discovery Channel" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/discovery_channel.png?raw=true" group-title="Info", Discovery Channel
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-id="TASTE MADE" tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/05/01/tastemade-logo-600_lKOgSRW.jpg"  group-title="Info",TASTE MADE (US)
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRAVEL XP" tvg-logo="https://travelxptv.b-cdn.net/wp-content/uploads/2016/12/travelxp-crystal-logo.png"  group-title="Info",TRAVEL XP (NL)
@@ -300,6 +300,9 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Curiosity Channel" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/curiosity_channel.png?raw=true" group-title="Info",Curiosity Channel
 https://curiosity-africa.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Food" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/food_food.png?raw=true" group-title="Info",Food Food
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+
 
 #EXTINF:-1,IN: ZEECAFE HD
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/196.ts
