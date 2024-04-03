@@ -53,27 +53,24 @@ http://xtv.ooo:8080/check5732/check12092/66167
 http://xtv.ooo:8080/check5732/check12092/355571
 #EXTINF:-1 tvg-id="ts306" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/comedy_central.png?raw=true" group-title="Entertainment",Comedy Central HD
 http://xtv.ooo:8080/check5732/check12092/238590
-#EXTINF:0 tvg-id="SonySubHD.in" group-title="Entertainment",SONY SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:0 tvg-id="StarBharat.in" group-title="Entertainment",STAR BHARAT HD
-http://watchindia.net:8880/live/58199/33239/780.ts
-#EXTINF:0 tvg-id="&TVHD.in" group-title="Entertainment",& TV HD
-http://watchindia.net:8880/live/58199/33239/782.ts
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Entertainment",Zee TV HD
-http://watchindia.net:8880/live/58199/33239/1970.ts
+#EXTINF:0 tvg-id="SonySabHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_sab_hd.png?raw=true" group-title="Entertainment",SONY SAB HD
+http://xtv.ooo:8080/check5732/check12092/104194
+#EXTINF:0 tvg-id="StarBharat.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/star_bharat_hd.png?raw=true" group-title="Entertainment",STAR BHARAT HD
+http://xtv.ooo:8080/check5732/check12092/109951
+#EXTINF:0 tvg-id="&TVHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/&tv_hd.png?raw=true" group-title="Entertainment",& TV HD
+http://xtv.ooo:8080/check5732/check12092/66173
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_tv_hd.png?raw=true" group-title="Entertainment",Zee TV HD
+http://xtv.ooo:8080/check5732/check12092/109950
 #EXTINF: -1 tvg-id="291" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_hd.png?raw=true" group-title="Entertainment",Sony HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-logo="https://i.imgur.com/CFUn43Z.png" group-title="Entertainment",Colors Kannada
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="Entertainment",Sony Pal
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_pal.png?raw=true" group-title="Entertainment",Sony Pal
+http://xtv.ooo:8080/check5732/check12092/104192
 #EXTINF:-1 tvg-id="ISHARA" tvg-logo="https://www.isharachannel.com/wp-content/uploads/2022/08/Ishara_n1_logo.png"  group-title="Entertainment",ISHARA (IN)
 https://epiconvh.s.llnwi.net/ishaara/master.m3u8
-#EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://i.imgur.com/WupT16d.jpg" group-title="Entertainment",FailArmy
+#EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/fail_army.png?raw=true" group-title="Entertainment",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CAFEE FHD" tvg-logo="" group-title="Entertainment",ZEE CAFEE HD
-http://675348658202779231.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779231.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CAFEE FHD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cafe_hd.png?raw=true" group-title="Entertainment",ZEE CAFEE HD
+http://xtv.ooo:8080/check5732/check12092/66287
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/vm2VwySK/a3bJ6x5.png",AFV Family
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="The Pet Collective" group-title="Entertainment" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/the_pet_collective.png?raw=true",The Pet Collective
