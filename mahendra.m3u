@@ -298,6 +298,9 @@ https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/i
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/love_nature.png?raw=true" group-title="Info",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nasa_tv.png?raw=true" group-title="Info",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 
 #EXTINF:-1,IN: ZEECAFE HD
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/196.ts
