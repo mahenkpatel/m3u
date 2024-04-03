@@ -28,7 +28,7 @@ https://ythls.armelin.one/channel/UCBwc2cbPpvxNCNEI2-8YrqQ.m3u8
 #EXTINF:-1 tvg-id="ZeeMadhyaPradeshChhattisgarh.in" tvg-logo="https://i.imgur.com/YccuVVI.png" group-title="News",Zee News MP Chattisgarh
 http://xtv.ooo:8080/check5732/check12092/244801
 #EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://watchindia.net/images/channels/hindi/India_Today_TV.png" group-title="News",India Today
-http://xtv.ooo:8080/check5732/check12092/244809
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-name="Republic TV News" tvg-logo="https://www.republicbharat.com/styles/images/republic-logo-eng.svg" group-title="News",Republic TV
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
 #EXTINF:-1 tvg-id="R Bharat" tvg-name="R Bharat" tvg-logo="https://www.republicbharat.com/styles/images/republic-logo-bharat.svg" group-title="News",R Bharat
