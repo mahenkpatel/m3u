@@ -293,7 +293,7 @@ http://675348658202779216.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779216.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://asiagrandiptv.us/logo/natgeowild.png" group-title="Info",NATIONAL GEOGRAPHIC WILD
 http://675348658202779217.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779217.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Discover Science" tvg-logo="https://asiagrandiptv.us/logo/natgeowild.png" group-title="Info",Discover Science
+#EXTINF:-1 tvg-id="" tvg-name="Discover Science" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/discovery_science.png?raw=true" group-title="Info",Discover Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/love_nature.png?raw=true" group-title="Info",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
