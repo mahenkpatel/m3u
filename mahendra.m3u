@@ -258,7 +258,7 @@ http://supersonictv.live:8080/259605/087951/22043
 #EXTINF:-1 group-title="English Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",B4U Movies
 http://d4k4u.com:8080/brahim24_391330/rL4KzMj6/513308
 
-
+##Info
 
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="Sony BBC Earth HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_BBC_Earth_HD.png" group-title="Info",Sony BBC Earth HD
 http://watchindia.net:8880/live/58199/33239/789.ts
@@ -295,6 +295,8 @@ http://675348658202779217.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779217.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Discover Science" tvg-logo="https://asiagrandiptv.us/logo/natgeowild.png" group-title="Info",Discover Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/love_nature.png?raw=true" group-title="Info",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 
 #EXTINF:-1,IN: ZEECAFE HD
