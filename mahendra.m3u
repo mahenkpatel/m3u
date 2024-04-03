@@ -301,6 +301,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nasa_tv.png?raw=true" group-title="Info",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Curiosity Channel" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/curiosity_channel.png?raw=true" group-title="Info",Curiosity Channel
+https://curiosity-africa.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,IN: ZEECAFE HD
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/196.ts
