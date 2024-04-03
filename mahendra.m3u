@@ -61,7 +61,7 @@ http://watchindia.net:8880/live/58199/33239/780.ts
 http://watchindia.net:8880/live/58199/33239/782.ts
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Entertainment",Zee TV HD
 http://watchindia.net:8880/live/58199/33239/1970.ts
-#EXTINF: -1 tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony HD
+#EXTINF: -1 tvg-id="291" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_hd.png?raw=true" group-title="Entertainment",Sony HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 tvg-id="ColorsKannada.in" tvg-logo="https://i.imgur.com/CFUn43Z.png" group-title="Entertainment",Colors Kannada
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
