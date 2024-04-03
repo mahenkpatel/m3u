@@ -75,6 +75,8 @@ http://xtv.ooo:8080/check5732/check12092/66287
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="The Pet Collective" group-title="Entertainment" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/the_pet_collective.png?raw=true",The Pet Collective
 https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_ThePetCollective/playlist.m3u8
+#EXTINF:-1 tvg-id="Star Plus HD" group-title="Entertainment" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/star_plus_hd.png?raw=true",Star Plus HD
+http://xtv.ooo:8080/check5732/check12092/66208
 
 ##Music
 
