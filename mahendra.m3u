@@ -247,7 +247,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155994
 http://675348658202778899.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/778899.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="" group-title="English Movies", HBO Hits HD
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/152372.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="English Movies", HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/hbo_hd.png?raw=true" group-title="English Movies", HBO HD
 https://edge1.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Axn" tvg-logo="" group-title="English Movies", AXN
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/98915.ts
