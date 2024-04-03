@@ -248,7 +248,7 @@ http://675348658202778899.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/778899.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="" group-title="English Movies", HBO Hits HD
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/152372.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="English Movies", HBO HD
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/152373.ts
+https://edge1.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Axn" tvg-logo="" group-title="English Movies", AXN
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/98915.ts
 #EXTINF:-1 tvg-id="" tvg-name="Miniplex" tvg-logo="" group-title="Hindi Movies", Miniplex
@@ -292,15 +292,12 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 http://675348658202779216.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779216.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://asiagrandiptv.us/logo/natgeowild.png" group-title="Info",NATIONAL GEOGRAPHIC WILD
 http://675348658202779217.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779217.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Discover Science" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/discovery_science.png?raw=true" group-title="Info",Discover Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/love_nature.png?raw=true" group-title="Info",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nasa_tv.png?raw=true" group-title="Info",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Curiosity Channel" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/curiosity_channel.png?raw=true" group-title="Info",Curiosity Channel
 https://curiosity-africa.amagi.tv/playlist.m3u8
 
