@@ -58,6 +58,10 @@ https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF: -1 tvg-id="ts554" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_pal.png?raw=true" group-title="Entertainment",Sony Pal
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-id="&TVHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/&tv_hd.png?raw=true" group-title="Entertainment",& TV HD
+http://xtv.ooo:8080/check5732/check12092/66173
+###http://startv365.com:80/9794783213/6955630461/378736
+
 
 
 #EXTINF:-1 tvg-id="144" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/colors_hd.png?raw=true" group-title="Entertainment",Colors HD
@@ -68,8 +72,7 @@ http://xtv.ooo:8080/check5732/check12092/355571
 http://xtv.ooo:8080/check5732/check12092/238590
 #EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/star_bharat_hd.png?raw=true" group-title="Entertainment",STAR BHARAT HD
 http://xtv.ooo:8080/check5732/check12092/109951
-#EXTINF:-1 tvg-id="&TVHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/&tv_hd.png?raw=true" group-title="Entertainment",& TV HD
-http://xtv.ooo:8080/check5732/check12092/66173
+
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_tv_hd.png?raw=true" group-title="Entertainment",Zee TV HD
 http://xtv.ooo:8080/check5732/check12092/109950
 
@@ -158,10 +161,12 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discover
 ###https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-id="sonyyay.in" tvg-name="Sony Yay" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_yay.png?raw=true" group-title="Kids",Sony Yay
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-id="ts433" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nick_hd_plus.png?raw=true" group-title="Kids",Nick HD+
+http://startv365.com:80/9794783213/6955630461/36319
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/cartoon_network.png?raw=true"  group-title="Kids",Cartoon Network HD+
+http://startv365.com:80/9794783213/6955630461/400159721
 
 
-#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic Hindi
@@ -177,8 +182,6 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #EXTINF:-1 tvg-id="PBS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png"  group-title="Kids",PBS KIDS (US)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="Kids",GUBBARE
-https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/cartoon_network.png?raw=true"  group-title="Kids",Cartoon Network
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 
@@ -198,6 +201,11 @@ https://epiconvh.s.llnwi.net/nazara/master_480.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-hollywooddesi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_pix_hd.png?raw=true" group-title="English Movies",Sony Pix HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-id="ts210" tvg-name="MN+ HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/mn_plus_hd.png?raw=true" group-title="English Movies",MN+ HD
+http://startv365.com:80/9794783213/6955630461/187151
+#EXTINF:-1 tvg-id="ZeeCinemaHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cinema_hd.png?raw=true" group-title="Hindi Movies",Zee Cinema HD
+http://startv365.com:80/9794783213/6955630461/376257
+###http://xtv.ooo:8080/check5732/check12092/109958
 
 
 
@@ -205,8 +213,6 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 http://watchindia.net:8880/live/58199/33239/785.ts
 #EXTINF:-1 tvg-id="StarGold.in" group-title="Hindi Movies",STAR GOLD 2
 http://filex.tv:8080/Amir8759/Amir9578/31
-#EXTINF:-1 tvg-id="ZeeCinemaHD.in" group-title="Hindi Movies",Zee Cinema HD
-http://xtv.ooo:8080/check5732/check12092/109958
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Hindi Movies",Bollywood Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Hindi Movies",Bollywood HD
