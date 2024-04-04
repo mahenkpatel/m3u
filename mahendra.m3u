@@ -51,7 +51,7 @@ https://d179muqh6u5263.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony Wah" group-title="Entertainment" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_wah.png?raw=true",Sony Wah
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:0 tvg-id="SonySabHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_sab_hd.png?raw=true" group-title="Entertainment",SONY SAB HD
+#EXTINF:-1 tvg-id="SonySabHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_sab_hd.png?raw=true" group-title="Entertainment",SONY SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 ##http://xtv.ooo:8080/check5732/check12092/104194
 #EXTINF: -1 tvg-id="291" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_hd.png?raw=true" group-title="Entertainment",Sony HD
@@ -66,9 +66,9 @@ http://xtv.ooo:8080/check5732/check12092/66167
 http://xtv.ooo:8080/check5732/check12092/355571
 #EXTINF:-1 tvg-id="ts306" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/comedy_central.png?raw=true" group-title="Entertainment",Comedy Central HD
 http://xtv.ooo:8080/check5732/check12092/238590
-#EXTINF:0 tvg-id="StarBharat.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/star_bharat_hd.png?raw=true" group-title="Entertainment",STAR BHARAT HD
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/star_bharat_hd.png?raw=true" group-title="Entertainment",STAR BHARAT HD
 http://xtv.ooo:8080/check5732/check12092/109951
-#EXTINF:0 tvg-id="&TVHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/&tv_hd.png?raw=true" group-title="Entertainment",& TV HD
+#EXTINF:-1 tvg-id="&TVHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/&tv_hd.png?raw=true" group-title="Entertainment",& TV HD
 http://xtv.ooo:8080/check5732/check12092/66173
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_tv_hd.png?raw=true" group-title="Entertainment",Zee TV HD
 http://xtv.ooo:8080/check5732/check12092/109950
@@ -192,20 +192,20 @@ https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 tvg-id="Shemaroo Bollywood" tvg-name="Shemaroo Bollywood" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/large_16_9_webp.webp" group-title="Hindi Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:0 tvg-id="ts1184" tvg-name="Nazara" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nazara.png?raw=true" group-title="Hindi Movies",Nazara
+#EXTINF:-1 tvg-id="ts1184" tvg-name="Nazara" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nazara.png?raw=true" group-title="Hindi Movies",Nazara
 https://epiconvh.s.llnwi.net/nazara/master_480.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/hollywood_desi.jpeg?raw=true" group-title="English Movies",Hollywood Desi
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/hollywood_desi.jpeg?raw=true" group-title="English Movies",Hollywood Desi
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-hollywooddesi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_pix_hd.png?raw=true" group-title="English Movies",Sony Pix HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi Movies",STAR GOLD HD
+#EXTINF:-1 tvg-id="StarGoldHD.in" group-title="Hindi Movies",STAR GOLD HD
 http://watchindia.net:8880/live/58199/33239/785.ts
-#EXTINF:0 tvg-id="StarGold.in" group-title="Hindi Movies",STAR GOLD 2
+#EXTINF:-1 tvg-id="StarGold.in" group-title="Hindi Movies",STAR GOLD 2
 http://filex.tv:8080/Amir8759/Amir9578/31
-#EXTINF:0 tvg-id="ZeeCinemaHD.in" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:-1 tvg-id="ZeeCinemaHD.in" group-title="Hindi Movies",Zee Cinema HD
 http://xtv.ooo:8080/check5732/check12092/109958
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Hindi Movies",Bollywood Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
@@ -286,7 +286,7 @@ http://d4k4u.com:8080/brahim24_391330/rL4KzMj6/513308
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:-1 tvg-id="investigationdiscoveryhd" tvg-name="Investigation Discovery HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/id_hd.png?raw=true" group-title="Info",Investigation Discovery HD
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/true_crime_now.png?raw=true" group-title="Info",True Crime Now
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/true_crime_now.png?raw=true" group-title="Info",True Crime Now
 https://6f7924a582c245d3a72503be9bb708c8.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_TrueCrimeNow/playlist.m3u8
 #EXTINF:-1 tvg-id="ts219" tvg-name="Discovery Channel" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/discovery_channel.png?raw=true" group-title="Info", Discovery Channel
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
@@ -298,11 +298,11 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 ###https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8
 ##https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/inwonder.png?raw=true" group-title="Info",INWONDER
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/inwonder.png?raw=true" group-title="Info",INWONDER
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungin/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/inwild.png?raw=true" group-title="Info",INWILD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/inwild.png?raw=true" group-title="Info",INWILD
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungin/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/introuble.png?raw=true" group-title="Samsung max",INTROUBLE
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/introuble.png?raw=true" group-title="Samsung max",INTROUBLE
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/tlc.png?raw=true" group-title="Info",TLC HD
 https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
