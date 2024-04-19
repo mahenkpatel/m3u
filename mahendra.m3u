@@ -216,8 +216,7 @@ http://filex.tv:8080/Amir8759/Amir9578/31
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Hindi Movies",Bollywood Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Hindi Movies",Bollywood HD
-https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
-##http://watchindia.net:8880/live/58199/33239/788.ts
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="Hindi Movies",Zee Classic
 http://xtv.ooo:8080/check5732/check12092/66201
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="Hindi Movies",Zee Bollywood
