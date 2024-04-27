@@ -27,7 +27,7 @@ https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
 #EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/news18_mp_cg.png?raw=true" group-title="News",News18 Madhya Pradesh Chhattisgarh
 https://ythls.armelin.one/channel/UCBwc2cbPpvxNCNEI2-8YrqQ.m3u8
 #EXTINF:-1 tvg-id="ZeeMadhyaPradeshChhattisgarh.in" tvg-logo="https://i.imgur.com/YccuVVI.png" group-title="News",Zee News MP Chattisgarh
-http://xtv.ooo:8080/check5732/check12092/244801
+https://tv.001133.xyz/live/658.m3u8
 #EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/india_today.png?raw=true" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-name="Republic TV News" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/republic_tv.png?raw=true" group-title="News",Republic TV
@@ -41,7 +41,7 @@ https://feeds.intoday.in/gnt/api/master.m3u8
 #EXTINF:-1 tvg-id="IBC24.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/ibc24.png?raw=true" group-title="News",IBC 24
 https://livetv.ibc24.in/livestream.m3u8
 #EXTINF:-1 tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/india_news_mpcg.png?raw=true" group-title="News",India News Madhya Pradesh/Chhattisgarh
-http://xtv.ooo:8080/check5732/check12092/244820
+https://d179muqh6u5263.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ts591" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/mirror_now.png?raw=true" group-title="News ",Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
 
