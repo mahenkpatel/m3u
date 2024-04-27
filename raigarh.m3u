@@ -199,7 +199,8 @@ https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
 ###EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg" group-title="Info",Discovery Channel
 ###https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-
+#EXTINF:-1 tvg-id=2437 tvg-name="Wild Earth" tvg-logo="https://tv.001133.xyz/jtvimage/Wild_Earth.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Wild Earth
+https://tv.001133.xyz/live/2437.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/love_nature.png?raw=true" group-title="Info",Love Nature
