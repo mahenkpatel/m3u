@@ -318,7 +318,8 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 http://675348658202779216.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779216.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://asiagrandiptv.us/logo/natgeowild.png" group-title="Info",NATIONAL GEOGRAPHIC WILD
 http://675348658202779217.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779217.ts
-
+#EXTINF:-1 tvg-id=2437 tvg-name="Wild Earth" tvg-logo="https://tv.001133.xyz/jtvimage/Wild_Earth.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Wild Earth
+https://tv.001133.xyz/live/2437.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/love_nature.png?raw=true" group-title="Info",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nasa_tv.png?raw=true" group-title="Info",Nasa TV
