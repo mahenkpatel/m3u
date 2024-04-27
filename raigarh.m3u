@@ -49,105 +49,27 @@ https://d179muqh6u5263.cloudfront.net/master.m3u8
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 #EXTINF:-1 tvg-id="SonySabHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_sab_hd.png?raw=true" group-title="Entertainment",SONY SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-##http://xtv.ooo:8080/check5732/check12092/104194
 #EXTINF: -1 tvg-id="291" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_hd.png?raw=true" group-title="Entertainment",Sony HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF: -1 tvg-id="ts554" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_pal.png?raw=true" group-title="Entertainment",Sony Pal
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 #EXTINF:-1 tvg-id="&TVHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/&tv_hd.png?raw=true" group-title="Entertainment",& TV HD
-http://xtv.ooo:8080/check5732/check12092/66173
-###http://startv365.com:80/9794783213/6955630461/378736
+https://tv.001133.xyz/live/472.m3u8
 
 
 
 #EXTINF:-1 tvg-id="144" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/colors_hd.png?raw=true" group-title="Entertainment",Colors HD
-http://xtv.ooo:8080/check5732/check12092/66167
-#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/colors_infinity_hd.png?raw=true" group-title="Entertainment",Colors Infinity HD
-http://xtv.ooo:8080/check5732/check12092/355571
-#EXTINF:-1 tvg-id="ts306" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/comedy_central.png?raw=true" group-title="Entertainment",Comedy Central HD
-http://xtv.ooo:8080/check5732/check12092/238590
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/star_bharat_hd.png?raw=true" group-title="Entertainment",STAR BHARAT HD
-http://xtv.ooo:8080/check5732/check12092/109951
+https://tv.001133.xyz/live/144.m3u8
 
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_tv_hd.png?raw=true" group-title="Entertainment",Zee TV HD
-http://xtv.ooo:8080/check5732/check12092/109950
+https://tv.001133.xyz/live/167.m3u8
 
-#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_pal.png?raw=true" group-title="Entertainment",Sony Pal
-http://xtv.ooo:8080/check5732/check12092/104192 
 #EXTINF:-1 tvg-id="ISHARA" tvg-logo="https://www.isharachannel.com/wp-content/uploads/2022/08/Ishara_n1_logo.png"  group-title="Entertainment",ISHARA (IN)
 https://epiconvh.s.llnwi.net/ishaara/master.m3u8
 #EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/fail_army.png?raw=true" group-title="Entertainment",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CAFEE FHD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cafe_hd.png?raw=true" group-title="Entertainment",ZEE CAFEE HD
-http://xtv.ooo:8080/check5732/check12092/66287
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/vm2VwySK/a3bJ6x5.png",AFV Family
-https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="The Pet Collective" group-title="Entertainment" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/the_pet_collective.png?raw=true",The Pet Collective
 https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_ThePetCollective/playlist.m3u8
-#EXTINF:-1 tvg-id="Star Plus HD" group-title="Entertainment" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/star_plus_hd.png?raw=true",Star Plus HD
-http://xtv.ooo:8080/check5732/check12092/66208
-
-
-##Music
-
-#EXTINF:-1 tvg-id="jio755" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="Music",MTV Beats HD
-http://mag.trexlive.me:80/Michael88/Michael88/156031
-#EXTINF:-1 tvg-id="Music India" tvg-logo="http://logo.protv.cc/picons/logos/musicindia.png" group-title="Music",Music India
-http://mag.trexlive.me:80/Michael88/Michael88/156056
-#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
-#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Music",9X Jalwa
-http://mag.trexlive.me:80/Michael88/Michael88/1112137
-#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="Music",B4U Music
-http://mag.trexlive.me:80/Michael88/Michael88/42444
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Music",Kadak Hits
-http://mag.trexlive.me:80/Michael88/Michael88/156167
-#EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Music",Mastiii
-http://mag.trexlive.me:80/Michael88/Michael88/156050
-#EXTINF:-1 tvg-id="E24" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png" group-title="Music",E24
-http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",IN: 24/7 MUSIC 01
-http://xtv.ooo:8080/check5732/check12092/219498
-#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 02" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",IN: 24/7 MUSIC 02
-http://xtv.ooo:8080/check5732/check12092/270503
-#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 03" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",IN: 24/7 MUSIC 03
-http://xtv.ooo:8080/check5732/check12092/270504
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 04" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 04
-http://xtv.ooo:8080/check5732/check12092/270505
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 05" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 05
-http://xtv.ooo:8080/check5732/check12092/270506
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 06" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 06
-http://xtv.ooo:8080/check5732/check12092/270507
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 07" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 07
-http://xtv.ooo:8080/check5732/check12092/270508
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 08" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 08
-http://xtv.ooo:8080/check5732/check12092/270509
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 09" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 09
-http://xtv.ooo:8080/check5732/check12092/270510
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 10" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 10
-http://xtv.ooo:8080/check5732/check12092/270511
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 11" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 11
-http://xtv.ooo:8080/check5732/check12092/270512
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 12" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 12
-http://xtv.ooo:8080/check5732/check12092/270513
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 13" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 13
-http://xtv.ooo:8080/check5732/check12092/270514
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 14" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 14
-http://xtv.ooo:8080/check5732/check12092/270515
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 15" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 15
-http://xtv.ooo:8080/check5732/check12092/270516
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 16" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 16
-http://xtv.ooo:8080/check5732/check12092/270517
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 17" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 17
-http://xtv.ooo:8080/check5732/check12092/270518
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 18" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 18
-http://xtv.ooo:8080/check5732/check12092/362865
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 19" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 19
-http://xtv.ooo:8080/check5732/check12092/362866
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 20" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 20
-http://xtv.ooo:8080/check5732/check12092/362867
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 21" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",24/7 MUSIC 21
-http://xtv.ooo:8080/check5732/check12092/362868
 
 
 ##kids
@@ -158,20 +80,13 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discover
 #EXTINF:-1 tvg-id="sonyyay.in" tvg-name="Sony Yay" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_yay.png?raw=true" group-title="Kids",Sony Yay
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="ts433" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nick_hd_plus.png?raw=true" group-title="Kids",Nick HD+
-http://startv365.com:80/9794783213/6955630461/36319
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/cartoon_network.png?raw=true"  group-title="Kids",Cartoon Network HD+
-http://startv365.com:80/9794783213/6955630461/400159721
+https://tv.001133.xyz/live/1226.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/cartoon_network.png?raw=true"  group-title="Kids",Cartoon Network
+https://tv.001133.xyz/live/816.m3u8
 
-
-#EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic Hindi
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+https://tv.001133.xyz/live/815.m3u8
 
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel" tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png" group-title="Kids",Disney Channel
-http://watchindia.net:8880/live/58199/33239/2046.ts
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD" tvg-logo="http://watchindia.net/images/channels/usa/Disney_XD.png" group-title="Kids",Disney XD
-http://watchindia.net:8880/live/58199/33239/2066.ts
 #EXTINF:-1 tvg-id="pogohindi.in" tvg-name="Pogo Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/cb543d1e786c648e93d43660cef342a6f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c535677ab66ad0311badc6ac8136b650705dad8ee2ebecc4072eb9c102f29b4641d57ee166ea8412e5e95a916018e38f55e0010e30627161185af06f0234dc4820a957f378dadd468277c5e5a8f2002b7f902f6ef820c13892ef8ae194b923146e19056cdd74ae986dd0ec85ed723a4468093f1de860d8b86c231b401b4660d0d7b2bcf867fca9c07f6b0f4683d8f3f29560e6ae2ac9eff4732f4292930e3defb8f5adb3ce3a80caf7d6dc76af44e8023c46aba1998ef4fada8c9b3282b2285f46b5e0981c88597a14559d467ffb1a7de7c6c89f7661b2da83c8251415f91f9d85a80ca11e4de49e3af592e11e48c1fe3f7d582eba3c34e9231b8aa9ef326766f512327b27292ae70e907b70cc05b8708262f6689d83fe687d7593c634b839356a67c71dbfab8f3148aa6a81a7f7bfb69d8216526ac662d144d4c88c8093cc3efd9d21544e9b2db04d00b8e0cbfcdfaf60f3afafacf43f46ed56d6bb8e82fa67735550eb2bd7911150c35fce7681828228364ead7d8ee7e0d40bda596bef07c1b28793a004cbbf0e839dbafd0391113f656244b7d0458c35781278c56094805e12afe804534890f2a28a6803a5e5163df88928995d9c741fa2e819fb369616d093ae47d54723b939b825bf4344e3e495c860e764af2520915a4c69f97f4ea09ef9260b8376b1011a7a1453b4e38155b039a9f65de2c84ab14b894c755b688bd3d66aa7c855052f2fdd36ef1e184877f079fa4521305c68b3fa4846ab4c4b18cda62006f871f847ab262/18/1280x720_3000800/index.m3u8
 
@@ -186,7 +101,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_max_hd.png?raw=true" group-title="Hindi Movies",Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_max.png?raw=true" group-title="Hindi Movies",Sony Max
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+https://tv.001133.xyz/live/sl476.m3u8
 #EXTINF:-1 tvg-id="sonymax2.in" tvg-name="Sony Max 2" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_max_2.png?raw=true" group-title="Hindi Movies",Sony Max 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 tvg-id="Shemaroo Bollywood" tvg-name="Shemaroo Bollywood" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/large_16_9_webp.webp" group-title="Hindi Movies",Shemaroo Bollywood
