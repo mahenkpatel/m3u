@@ -115,39 +115,35 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-id="ts210" tvg-name="MN+ HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/mn_plus_hd.png?raw=true" group-title="English Movies",MN+ HD
 http://startv365.com:80/9794783213/6955630461/187151
 #EXTINF:-1 tvg-id="ZeeCinemaHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cinema_hd.png?raw=true" group-title="Hindi Movies",Zee Cinema HD
-http://startv365.com:80/9794783213/6955630461/376257
-###http://xtv.ooo:8080/check5732/check12092/109958
+https://tv.001133.xyz/live/165.m3u8
 
 
 
-#EXTINF:-1 tvg-id="StarGoldHD.in" group-title="Hindi Movies",STAR GOLD HD
-http://watchindia.net:8880/live/58199/33239/785.ts
-#EXTINF:-1 tvg-id="StarGold.in" group-title="Hindi Movies",STAR GOLD 2
-http://filex.tv:8080/Amir8759/Amir9578/31
+###EXTINF:-1 tvg-id="StarGoldHD.in" group-title="Hindi Movies",STAR GOLD HD
+##http://watchindia.net:8880/live/58199/33239/785.ts
+###EXTINF:-1 tvg-id="StarGold.in" group-title="Hindi Movies",STAR GOLD 2
+##http://filex.tv:8080/Amir8759/Amir9578/31
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Hindi Movies",Bollywood Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Hindi Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="Hindi Movies",Zee Classic
-http://xtv.ooo:8080/check5732/check12092/66201
+https://tv.001133.xyz/live/1691.m3u8
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="Hindi Movies",Zee Bollywood
-http://watchindia.net:8880/live/58199/33239/822.ts
+https://tv.001133.xyz/live/487.m3u8
 #EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Hindi Movies",Zee Action
-http://watchindia.net:8880/live/58199/33239/821.ts
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="English Movies",Movies Now HD
-http://watchindia.net:8880/live/58199/33239/2102.ts
-#EXTINF:-1 tvg-id="romedynow.in" tvg-name="Romedy Now" tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png" group-title="English Movies",Romedy Now
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/179.ts
+https://tv.001133.xyz/live/488.m3u8
+###EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="English Movies",Movies Now HD
+###http://watchindia.net:8880/live/58199/33239/2102.ts
 #EXTINF:-1 tvg-id="267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Movies",&pictures HD 
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd?begin=20240221T060000&end=20240229T060000 
+https://tv.001133.xyz/live/185.m3u8
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="Hindi Movies",Colors Cineplex HD
 http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="Hindi Movies",Colors Cineplex Bollywood
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Hindi Movies",Colors Cineplex Superhits
-http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="ColorsSuper.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Colors-super-tv-channel-logo.jpg" group-title="Entertainment",Colors Super
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
+https://tv.001133.xyz/live/1763.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Hindi Movies",Colors Cineplex Superhit
+https://tv.001133.xyz/live/1450.m3u8
+
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="English Movies",Syfy
 http://watchindia.net:8880/live/58199/33239/2127.ts
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Hindi Movies",Zee Anmol Cinema
