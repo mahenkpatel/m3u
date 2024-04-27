@@ -144,72 +144,39 @@ https://tv.001133.xyz/live/1763.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Hindi Movies",Colors Cineplex Superhit
 https://tv.001133.xyz/live/1450.m3u8
 
-#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="English Movies",Syfy
-http://watchindia.net:8880/live/58199/33239/2127.ts
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Hindi Movies",Zee Anmol Cinema
-http://watchindia.net:8880/live/58199/33239/820.ts
 
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Hindi Movies",Star Gold Select HD
-http://watchindia.net:8880/live/58199/33239/784.ts
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="English Movies",& Flix HD
-http://watchindia.net:8880/live/58199/33239/2088.ts
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="English Movies",& Prive HD
-http://watchindia.net:8880/live/58199/33239/2103.ts
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="English Movies",Sky Cinema Action
-http://watchindia.net:8880/live/58199/33239/2176.ts
-#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" group-title="English Movies",Sky Cinema Comedy
-http://watchindia.net:8880/live/58199/33239/2177.ts
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" group-title="English Movies",Sky Cinema Drama
-http://watchindia.net:8880/live/58199/33239/2179.ts
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" group-title="English Movies",Sky Cinema Family
-http://watchindia.net:8880/live/58199/33239/2173.ts
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" group-title="English Movies",Sky Cinema Greats
-http://watchindia.net:8880/live/58199/33239/2172.ts
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="English Movies",Sky Cinema Hits
-http://watchindia.net:8880/live/58199/33239/2171.ts
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="English Movies",Sky Cinema Premiere
-http://watchindia.net:8880/live/58199/33239/2169.ts
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="English Movies",Sky Cinema Sci-Fi/Horror
-http://watchindia.net:8880/live/58199/33239/2180.ts
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="English Movies",Sky Cinema Select
-http://watchindia.net:8880/live/58199/33239/2170.ts
-#EXTINF:-1 tvg-id="CRACKLE" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/11/Crackle-Logo.png"  group-title="English Movies",CRACKLE (US)
-https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Hindi Movies",Zee Anmol Cinema
+https://tv.001133.xyz/live/415.m3u8
+
+####EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Hindi Movies",Star Gold Select HD
+###http://watchindia.net:8880/live/58199/33239/784.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Tata Play Classic Cinema" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-44333-jz3hpme0-v4%2FimageContent-44333-jz3hpme0-m8.png&w=256&q=75" group-title="Hindi Movies",Tata Play Classic Cinema
 http://mag.trexlive.me:80/Michael88/Michael88/155994
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES FHD" tvg-logo="" group-title="English Movies",STAR MOVIES Select HD
-http://675348658202778899.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/778899.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="" group-title="English Movies", HBO Hits HD
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/152372.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/hbo_hd.png?raw=true" group-title="English Movies", HBO HD
-https://edge1.laotv.la/live/HBO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Axn" tvg-logo="" group-title="English Movies", AXN
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/98915.ts
-#EXTINF:-1 tvg-id="" tvg-name="Miniplex" tvg-logo="" group-title="Hindi Movies", Miniplex
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/23427.ts
-#EXTINF:-1 group-title="English Movies",USA: ADULT SWIM
-http://supersonictv.live:8080/259605/087951/22043
+
 #EXTINF:-1 group-title="English Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",B4U Movies
-http://d4k4u.com:8080/brahim24_391330/rL4KzMj6/513308
+https://tv.001133.xyz/live/182.m3u8
+#EXTINF:-1 tvg-id=1295 tvg-name="B4U Kadak" tvg-logo="https://tv.001133.xyz/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi Movies", B4U Kadak
+https://tv.001133.xyz/live/1295.m3u8
+#EXTINF:-1 tvg-id=1839 tvg-name="And Pictures" tvg-logo="https://tv.001133.xyz/jtvimage/And_Pictures.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi Movies", And Pictures
+https://tv.001133.xyz/live/1839.m3u8
+#EXTINF:-1 tvg-id=2776 tvg-name="Dhamaka Movies B4U" tvg-logo="https://tv.001133.xyz/jtvimage/Dhamaka_Movies_B4U.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi Movies", Dhamaka Movies B4U
+https://tv.001133.xyz/live/2776.m3u8
 
 ##Info
 
 #EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/epic.png?raw=true" group-title="Info",Epic
 https://epiconvh.s.llnwi.net/epic/master.m3u8
-#EXTINF:-1 tvg-id="investigationdiscoveryhd" tvg-name="Investigation Discovery HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/id_hd.png?raw=true" group-title="Info",Investigation Discovery HD
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/true_crime_now.png?raw=true" group-title="Info",True Crime Now
-https://6f7924a582c245d3a72503be9bb708c8.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_TrueCrimeNow/playlist.m3u8
-#EXTINF:-1 tvg-id="ts219" tvg-name="Discovery Channel" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/discovery_channel.png?raw=true" group-title="Info", Discovery Channel
-https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
-###https://dplus.gammacdn.workers.dev/videos/95.m3u8
+
+#EXTINF:-1 tvg-id="ts219" tvg-name="Discovery Channel" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/discovery_channel.png?raw=true" group-title="Info", Discovery HD
+###https://tv.001133.xyz/live/463.m3u8
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/animal_planet_hd.png?raw=true" group-title="Info",Animal Planet HD
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+https://tv.001133.xyz/live/286.m3u8
 ###https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discover Science" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/discovery_science.png?raw=true" group-title="Info",Discover Science
-###https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8
-##https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="https://tv.001133.xyz/jtvimage/Animal_Planet_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet Hindi
+https://tv.001133.xyz/live/566.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/inwonder.png?raw=true" group-title="Info",INWONDER
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/inwild.png?raw=true" group-title="Info",INWILD
@@ -224,35 +191,20 @@ https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo Wild" tvg-logo="http://watchindia.net/images/channels/usa/NAT_GEO_Wild.png" group-title="Info",Nat Geo Wild
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="National Geographic HD" tvg-logo="https://watchindia.net/images/channels/hindi/National_Geographic_HD.png" group-title="Info",National Geographic HD
-http://watchindia.net:8880/live/58199/33239/790.ts
+####EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="National Geographic HD" tvg-logo="https://watchindia.net/images/channels/hindi/National_Geographic_HD.png" group-title="Info",National Geographic HD
+###http://watchindia.net:8880/live/58199/33239/790.ts
 
-#EXTINF:-1 tvg-id="zee.zest.in" tvg-name="Zee Zest HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="Info",Zee Zest HD
-http://watchindia.net:8880/live/58199/33239/2359.ts
 
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC World News" tvg-logo="http://watchindia.net/images/channels/usa/BBC_World_News.png" group-title="Info",BBC World News
-http://watchindia.net:8880/live/58199/33239/2579.ts
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg" group-title="Info",Discovery Channel
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+###EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg" group-title="Info",Discovery Channel
+###https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:-1 tvg-id="TASTE MADE" tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/05/01/tastemade-logo-600_lKOgSRW.jpg"  group-title="Info",TASTE MADE (US)
-https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TRAVEL XP" tvg-logo="https://travelxptv.b-cdn.net/wp-content/uploads/2016/12/travelxp-crystal-logo.png"  group-title="Info",TRAVEL XP (NL)
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: NATIONAL GEO FHD" tvg-logo="" group-title="Info",NATIONAL GEOGRAPHIC HD
-http://675348658202779216.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779216.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://asiagrandiptv.us/logo/natgeowild.png" group-title="Info",NATIONAL GEOGRAPHIC WILD
-http://675348658202779217.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/779217.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/love_nature.png?raw=true" group-title="Info",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nasa_tv.png?raw=true" group-title="Info",Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Curiosity Channel" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/curiosity_channel.png?raw=true" group-title="Info",Curiosity Channel
 https://curiosity-africa.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Food" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/food_food.png?raw=true" group-title="Info",Food Food
