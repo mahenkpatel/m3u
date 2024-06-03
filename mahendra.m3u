@@ -179,6 +179,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_max_hd.png?raw=true" group-title="Hindi Movies",Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-id="xplorehd.in" tvg-name="&Xplor HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/andxplorehd.png?raw=true" group-title="Hindi Movies",&Xplor HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://la.drmlive.au/tp/zee.php?id=andxplorehd
 #EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_max.png?raw=true" group-title="Hindi Movies",Sony Max
 https://tv.001133.xyz/live/sl476.m3u8
