@@ -163,7 +163,10 @@ https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="ts433" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nick_hd_plus.png?raw=true" group-title="Kids",Nick HD+
 https://tv.001133.xyz/live/1226.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/cartoon_network.png?raw=true"  group-title="Kids",Cartoon Network
-https://tv.001133.xyz/live/816.m3u8
+###https://tv.001133.xyz/live/816.m3u8
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHPFQFTmGDIBX1WF9oaftwNQ/ts
+
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHIihVHj6Jhr7n0mJGBYUiMQ/ts
 
 
 #EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic Hindi
@@ -210,7 +213,7 @@ https://tv.001133.xyz/live/484.m3u8
 ##EXTINF:-1 tvg-id="StarGoldHD.in" group-title="Hindi Movies",STAR GOLD HD
 ##http://watchindia.net:8880/live/58199/33239/785.ts
 ###EXTINF:-1 tvg-id="StarGold.in" group-title="Hindi Movies",STAR GOLD 2
-###http://filex.tv:8080/Amir8759/Amir9578/31
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNqAW5euIXqc6Z4o4X7S430/ts
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Hindi Movies",Bollywood Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Hindi Movies",Bollywood HD
@@ -239,7 +242,7 @@ https://tv.001133.xyz/live/1450.m3u8
 https://tv.001133.xyz/live/415.m3u8
 
 ####EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Hindi Movies",Star Gold Select HD
-###http://watchindia.net:8880/live/58199/33239/784.ts
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHJfcQEfCpEy9bGzQtQTQbhg/ts
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="English Movies",& Flix HD
 https://tv.001133.xyz/live/1322.m3u8
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="English Movies",& Prive HD
@@ -254,7 +257,7 @@ http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/152372.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/hbo_hd.png?raw=true" group-title="English Movies", HBO HD
 https://edge1.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Axn" tvg-logo="" group-title="English Movies", AXN
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/98915.ts
+###http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHA4ZHORESktGj6daWPSCgNo/ts
 #EXTINF:-1 tvg-id="" tvg-name="Miniplex" tvg-logo="" group-title="Hindi Movies", Miniplex
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/23427.ts
 #EXTINF:-1 group-title="English Movies",USA: ADULT SWIM
