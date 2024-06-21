@@ -31,7 +31,7 @@ https://tv.001133.xyz/live/658.m3u8
 #EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/india_today.png?raw=true" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-name="Republic TV News" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/republic_tv.png?raw=true" group-title="News",Republic TV
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
+https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-884117/9f34f453-a0c2-48d5-8362-4c8c97082cbe/3.m3u8
 #EXTINF:-1 tvg-id="R Bharat" tvg-name="R Bharat" tvg-logo="https://www.republicbharat.com/styles/images/republic-logo-bharat.svg" group-title="News",R Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-1 tvg-id="R Kannada" tvg-name="R Kannada" tvg-logo="https://www.republicbharat.com/styles/images/R.Kannada-logo.svg" group-title="News",R Kannada
@@ -100,13 +100,13 @@ http://mag.trexlive.me:80/Michael88/Michael88/156056
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
 #EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Music",9X Jalwa
-http://mag.trexlive.me:80/Michael88/Michael88/1112137
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="Music",B4U Music
 http://mag.trexlive.me:80/Michael88/Michael88/42444
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Music",Kadak Hits
 http://mag.trexlive.me:80/Michael88/Michael88/156167
 #EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Music",Mastiii
-http://mag.trexlive.me:80/Michael88/Michael88/156050
+https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/08f84a03-a184-4552-95e6-0f19e931e01b/2.m3u8
 #EXTINF:-1 tvg-id="E24" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png" group-title="Music",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",IN: 24/7 MUSIC 01
