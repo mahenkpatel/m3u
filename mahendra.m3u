@@ -63,9 +63,9 @@ https://tv.001133.xyz/live/472.m3u8
 
 
 #EXTINF:-1 tvg-id="144" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/colors_hd.png?raw=true" group-title="Entertainment",Colors HD
-https://tv.001133.xyz/live/144.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/colors_infinity_hd.png?raw=true" group-title="Entertainment",Colors Infinity HD
-https://tv.001133.xyz/live/1158.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="ts306" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/comedy_central.png?raw=true" group-title="Entertainment",Comedy Central HD
 https://tv.001133.xyz/live/1157.m3u8
 
@@ -88,8 +88,13 @@ https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/
 
 ##Music
 
-#EXTINF:-1 tvg-id="jio755" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="Music",MTV Beats HD
-http://mag.trexlive.me:80/Michael88/Michael88/156031
+#EXTINF:-1 tvg-id="405" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Music",MTV Beats HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=405
+#EXTVLCOPT:http-user-agent=third-party
+https://la.drmlive.au/tp/index.php?id=405
+
 #EXTINF:-1 tvg-id="Music India" tvg-logo="http://logo.protv.cc/picons/logos/musicindia.png" group-title="Music",Music India
 http://mag.trexlive.me:80/Michael88/Michael88/156056
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM
