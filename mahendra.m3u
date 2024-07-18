@@ -196,12 +196,10 @@ https://tv.001133.xyz/live/sl476.m3u8
 http://103.106.238.11:81/play/a07w
 #EXTINF:-1 tvg-id="Shemaroo Bollywood" tvg-name="Shemaroo Bollywood" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/large_16_9_webp.webp" group-title="Hindi Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="ts1184" tvg-name="Nazara" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/nazara.png?raw=true" group-title="Hindi Movies",Nazara
-https://epiconvh.s.llnwi.net/nazara/master_480.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/hollywood_desi.jpeg?raw=true" group-title="English Movies",Hollywood Desi
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-hollywooddesi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_pix_hd.png?raw=true" group-title="English Movies",Sony Pix HD
-http://103.106.238.11:81/play/a06z
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/75
 #EXTINF:-1 tvg-id="ts210" tvg-name="MN+ HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/mn_plus_hd.png?raw=true" group-title="English Movies",MN+ HD
 http://startv365.com:80/9794783213/6955630461/187151
 #EXTINF:-1 tvg-id="ZeeCinemaHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cinema_hd.png?raw=true" group-title="Hindi Movies",Zee Cinema HD
