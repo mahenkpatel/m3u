@@ -103,10 +103,10 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="Music",B4U Music
 http://mag.trexlive.me:80/Michael88/Michael88/42444
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Music",Kadak Hits
+#EXTINF:-1 tvg-id="b4u kadak.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Music",Kadak Hits
 http://mag.trexlive.me:80/Michael88/Michael88/156167
 #EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Music",Mastiii
-https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/08f84a03-a184-4552-95e6-0f19e931e01b/2.m3u8
+https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="E24" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png" group-title="Music",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 
