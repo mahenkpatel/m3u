@@ -162,6 +162,9 @@ https://tv.001133.xyz/live/165.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cinema.png?raw=true" group-title="Hindi Movies",Zee Cinema
 https://tv.001133.xyz/live/484.m3u8
 
+#EXTINF:-1 tvg-id="TheMovieClub" tvg-logo="https://images.samsung.com/is/image/samsung/assets/in/samsung-live/19324_Logo_196x164_0010_The-movie-Club_copy.jpg" group-title="Hindi Movies" tvg-logo="",The Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
 
 
 ##EXTINF:-1 tvg-id="StarGoldHD.in" group-title="Hindi Movies",STAR GOLD HD
@@ -169,7 +172,7 @@ https://tv.001133.xyz/live/484.m3u8
 ###EXTINF:-1 tvg-id="StarGold.in" group-title="Hindi Movies",STAR GOLD 2
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNqAW5euIXqc6Z4o4X7S430/ts
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Hindi Movies",Bollywood Classic
-https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Hindi Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="Hindi Movies",Zee Classic
