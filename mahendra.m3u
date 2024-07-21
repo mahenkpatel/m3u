@@ -172,6 +172,8 @@ https://tv.001133.xyz/live/484.m3u8
 
 #EXTINF:-1 tvg-id="TheMovieClub" tvg-logo="https://images.samsung.com/is/image/samsung/assets/in/samsung-live/19324_Logo_196x164_0010_The-movie-Club_copy.jpg" group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 
 
@@ -215,8 +217,12 @@ https://tv.001133.xyz/live/1349.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tata Play Classic Cinema" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-44333-jz3hpme0-v4%2FimageContent-44333-jz3hpme0-m8.png&w=256&q=75" group-title="Hindi Movies",Tata Play Classic Cinema
 http://mag.trexlive.me:80/Michael88/Michael88/155994
-###EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES FHD" tvg-logo="" group-title="English Movies",STAR MOVIES Select HD
-###http://675348658202778899.ofd0203.xyz:80/play/hu1022468/pKmBp8DHU6/778899.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES Select HD" tvg-logo="" group-title="English Movies",STAR MOVIES Select HD
+http://tv.cloudcdn.me/live.ts?channelId=199&uid=2496&deviceMac=00:1A:79:A8:9C:32
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="English Movies",STAR MOVIES HD
+http://tv.cloudcdn.me/live.ts?channelId=199&uid=2496&deviceMac=00:1A:79:A8:9C:32
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="" group-title="English Movies", HBO Hits HD
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/152372.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/hbo_hd.png?raw=true" group-title="English Movies", HBO HD
