@@ -90,9 +90,8 @@ https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id=753 tvg-name="MTV Beats HD" tvg-logo="https://tv.001133.xyz/jtvimage/MTV_Beats_HD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats HD
 https://tv.001133.xyz/live/753.m3u8
-
-#EXTINF:-1 tvg-id="Music India" tvg-logo="http://logo.protv.cc/picons/logos/musicindia.png" group-title="Music",Music India
-http://mag.trexlive.me:80/Michael88/Michael88/156056
+#EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="https://tv.001133.xyz/jtvimage/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
+https://tv.001133.xyz/live/250.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
 #EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Music",9X Jalwa
