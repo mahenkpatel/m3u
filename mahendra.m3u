@@ -88,12 +88,8 @@ https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/
 
 ##Music
 
-#EXTINF:-1 tvg-id="405" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Music",MTV Beats HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=405
-#EXTVLCOPT:http-user-agent=third-party
-https://la.drmlive.au/tp/index.php?id=405
+#EXTINF:-1 tvg-id=753 tvg-name="MTV Beats HD" tvg-logo="https://tv.001133.xyz/jtvimage/MTV_Beats_HD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats HD
+https://tv.001133.xyz/live/753.m3u8
 
 #EXTINF:-1 tvg-id="Music India" tvg-logo="http://logo.protv.cc/picons/logos/musicindia.png" group-title="Music",Music India
 http://mag.trexlive.me:80/Michael88/Michael88/156056
