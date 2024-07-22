@@ -52,7 +52,7 @@ https://d179muqh6u5263.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Sony Wah" group-title="Entertainment" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_wah.png?raw=true",Sony Wah
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 #EXTINF:-1 tvg-id="SonySabHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_sab_hd.png?raw=true" group-title="Entertainment",SONY SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+http://port.denver1769.in/ulpl2.php?tv=4895
 #EXTINF: -1 tvg-id="291" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_hd.png?raw=true" group-title="Entertainment",Sony HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF: -1 tvg-id="ts554" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_pal.png?raw=true" group-title="Entertainment",Sony Pal
@@ -149,7 +149,7 @@ http://port.denver1769.in/ulpl2.php?tv=5898
 http://port.denver1769.in/ulpl2.php?tv=4538
 #EXTINF:-1 tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/111.png" tvg-id="" group-title="kids",Disney XD HD 
 http://port.denver1769.in/ulpl2.php?tv=3965
-#EXTINF:-1 tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/171.png" tvg-id="" group-title="kids",Cartoon Network IN 
+#EXTINF:-1 tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/880.png" tvg-id="" group-title="kids",CN HD + 
 http://port.denver1769.in/ulpl2.php?tv=5056
 
 ##Movies
