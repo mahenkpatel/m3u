@@ -145,7 +145,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/.png" tvg-id="" group-title="Kids",Sky Cinema Animation HD 
 http://port.denver1769.in/ulpl2.php?tv=5898
-
+#EXTINF:-1 tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/242.png" tvg-id="" group-title="kids",Disney Channel HD 
+http://port.denver1769.in/ulpl2.php?tv=4538
+#EXTINF:-1 tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/111.png" tvg-id="" group-title="kids",Disney XD HD 
+http://port.denver1769.in/ulpl2.php?tv=3965
+#EXTINF:-1 tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/171.png" tvg-id="" group-title="kids",Cartoon Network IN 
+http://port.denver1769.in/ulpl2.php?tv=5056
 
 ##Movies
 
