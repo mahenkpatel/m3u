@@ -182,7 +182,7 @@ http://port.denver1769.in/ulpl2.php?tv=5192
 ##EXTINF:-1 tvg-id="StarGoldHD.in" group-title="Hindi Movies",STAR GOLD HD
 ##http://watchindia.net:8880/live/58199/33239/785.ts
 ###EXTINF:-1 tvg-id="StarGold.in" group-title="Hindi Movies",STAR GOLD 2
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNqAW5euIXqc6Z4o4X7S430/ts
+http://port.denver1769.in/ulpl2.php?tv=4304
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Hindi Movies",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Hindi Movies",Bollywood HD
