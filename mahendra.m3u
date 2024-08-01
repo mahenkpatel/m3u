@@ -78,7 +78,7 @@ https://epiconvh.s.llnwi.net/ishaara/master.m3u8
 #EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/fail_army.png?raw=true" group-title="Entertainment",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CAFEE FHD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cafe_hd.png?raw=true" group-title="Entertainment",ZEE CAFEE HD
-https://tv.001133.xyz/live/1319.m3u8
+http://xtv.ooo:8080/359052742/470428329/66287
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/vm2VwySK/a3bJ6x5.png",AFV Family
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="The Pet Collective" group-title="Entertainment" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/the_pet_collective.png?raw=true",The Pet Collective
