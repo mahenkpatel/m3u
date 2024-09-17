@@ -172,10 +172,9 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-ho
 http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/75
 #EXTINF:-1 tvg-id="ts210" tvg-name="MN+ HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/mn_plus_hd.png?raw=true" group-title="English Movies",MN+ HD
 http://startv365.com:80/9794783213/6955630461/187151
-#EXTINF:-1 tvg-id="ZeeCinemaHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cinema_hd.png?raw=true" group-title="Hindi Movies",Zee Cinema HD
-https://tv.001133.xyz/live/165.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cinema.png?raw=true" group-title="Hindi Movies",Zee Cinema
-https://tv.001133.xyz/live/484.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cinema_hd.png?raw=true" group-title="Hindi Movies",Zee Cinema
+http://gtvstreams.me:80/johndoe/johndoe/792519
+
 
 #EXTINF:-1 tvg-id="TheMovieClub" tvg-logo="https://images.samsung.com/is/image/samsung/assets/in/samsung-live/19324_Logo_196x164_0010_The-movie-Club_copy.jpg" group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
