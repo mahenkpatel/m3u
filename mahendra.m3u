@@ -60,7 +60,11 @@ http://port.denver1769.in/ulpl2.php?tv=4897
 #EXTINF:-1 tvg-id="&TVHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/&tv_hd.png?raw=true" group-title="Entertainment",& TV HD
 https://tv.001133.xyz/live/472.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=964
+#EXTINF:-1 tvg-id="ts964" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCTV_Thumbnail-v4/TPCTV_Thumbnail.png" group-title="Entertainment",Tata Play Classic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=964
 
 #EXTINF:-1 tvg-id="144" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/colors_hd.png?raw=true" group-title="Entertainment",Colors HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
