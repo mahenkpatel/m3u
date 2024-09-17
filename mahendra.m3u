@@ -70,8 +70,8 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.
 https://tv.001133.xyz/live/1157.m3u8
 
 
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_tv_hd.png?raw=true" group-title="Entertainment",Zee TV HD
-https://tv.001133.xyz/live/167.m3u8
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_tv_hd.png?raw=true" group-title="Entertainment",Zee TV HD
+http://gtvstreams.me:80/johndoe/johndoe/792489
 
 #EXTINF:-1 tvg-id="ISHARA" tvg-logo="https://www.isharachannel.com/wp-content/uploads/2022/08/Ishara_n1_logo.png"  group-title="Entertainment",ISHARA (IN)
 https://epiconvh.s.llnwi.net/ishaara/master.m3u8
