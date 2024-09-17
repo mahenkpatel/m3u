@@ -60,6 +60,8 @@ http://port.denver1769.in/ulpl2.php?tv=4897
 #EXTINF:-1 tvg-id="&TVHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/&tv_hd.png?raw=true" group-title="Entertainment",& TV HD
 https://tv.001133.xyz/live/472.m3u8
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=964
 #EXTINF:-1 tvg-id="ts964" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCTV_Thumbnail-v4/TPCTV_Thumbnail.png" group-title="Entertainment",Tata Play Classic TV
@@ -176,9 +178,18 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-ho
 http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/75
 #EXTINF:-1 tvg-id="ts210" tvg-name="MN+ HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/mn_plus_hd.png?raw=true" group-title="English Movies",MN+ HD
 http://startv365.com:80/9794783213/6955630461/187151
-#EXTINF:-1 tvg-id="ZeeCinemaHD.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/zee_cinema_hd.png?raw=true" group-title="Hindi Movies",Zee Cinema
-http://gtvstreams.me:80/johndoe/johndoe/792519
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=503
+#EXTINF:-1 tvg-id="ts503" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Hindi Movies",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=503
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=741
+#EXTINF:-1 tvg-id="ts741" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44333-jz3hpme0-v4/imageContent-44333-jz3hpme0-m8.png" group-title="Hindi Movies",Tata Play Classic Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=741
 
 #EXTINF:-1 tvg-id="TheMovieClub" tvg-logo="https://images.samsung.com/is/image/samsung/assets/in/samsung-live/19324_Logo_196x164_0010_The-movie-Club_copy.jpg" group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
@@ -188,7 +199,11 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 http://port.denver1769.in/ulpl2.php?tv=5192
 #EXTINF:-1 tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/786.png" tvg-id="" group-title="Hindi Movies",Goldmine Movies 
 http://port.denver1769.in/ulpl2.php?tv=5060
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=80
+#EXTINF:-1 tvg-id="ts80" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Hindi Movies",SONY MAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://yuvraj49.in/tplay/manifest.mpd/?id=80
 
 ##EXTINF:-1 tvg-id="StarGoldHD.in" group-title="Hindi Movies",STAR GOLD HD
 ##http://watchindia.net:8880/live/58199/33239/785.ts
