@@ -162,7 +162,6 @@ http://port.denver1769.in/ulpl2.php?tv=5056
 
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_max_hd.png?raw=true" group-title="Hindi Movies",Sony Max HD
 http://tv.indigotv.me/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
-####https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-id="xplorehd.in" tvg-name="&Xplor HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/andxplorehd.png?raw=true" group-title="Hindi Movies",&Xplor HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://la.drmlive.au/tp/zee.php?id=andxplorehd
