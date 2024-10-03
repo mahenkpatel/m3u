@@ -231,6 +231,8 @@ http://tv.indigotv.me/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 https://tv.001133.xyz/live/1763.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Hindi Movies",Colors Cineplex Superhit
 http://tv.cloudcdn.me/live.ts?channelId=62413&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+#EXTINF:-1 tvg-id="miniplexhd" tvg-logo="https://cdn.ndtv.com/tech/images/gadgets/miniplex_fb.jpg" group-title="Hindi Movies",Miniplex HD
+http://tv.cloudcdn.me:80/live.ts?channelId=215&uid=13433&deviceMac=00:1A:79:00:97:A1
 ###EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="English Movies",Syfy
 ###http://watchindia.net:8880/live/58199/33239/2127.ts
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Hindi Movies",Zee Anmol Cinema
