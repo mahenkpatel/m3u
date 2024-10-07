@@ -104,7 +104,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Music",9X Jalwa
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="Music",B4U Music
-https://tv.001133.xyz/live/183.m3u8
+https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-id="b4u kadak.in" tvg-name="Kadak Hits" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Music",Kadak Hits
 https://tv.001133.xyz/live/1249.m3u8
 #EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Music",Mastiii
@@ -163,6 +163,8 @@ http://port.denver1769.in/ulpl2.php?tv=5056
 
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_max_hd.png?raw=true" group-title="Hindi Movies",Sony Max HD
 http://tv.indigotv.me/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="mnx" tvg-name="mnx" tvg-logo="" group-title="Hindi Movies",MNX HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112876
 #EXTINF:-1 tvg-id="xplorehd.in" tvg-name="&Xplor HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/andxplorehd.png?raw=true" group-title="Hindi Movies",&Xplor HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://la.drmlive.au/tp/zee.php?id=andxplorehd
@@ -175,7 +177,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/hollywood_desi.jpeg?raw=true" group-title="English Movies",Hollywood Desi
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-hollywooddesi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/sony_pix_hd.png?raw=true" group-title="English Movies",Sony Pix HD
-http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/75
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63582
 #EXTINF:-1 tvg-id="ts210" tvg-name="MN+ HD" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/mn_plus_hd.png?raw=true" group-title="English Movies",MN+ HD
 http://startv365.com:80/9794783213/6955630461/187151
 
@@ -220,7 +222,7 @@ https://tv.001133.xyz/live/487.m3u8
 #EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Hindi Movies",Zee Action
 https://tv.001133.xyz/live/488.m3u8
 ###EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="English Movies",Movies Now HD
-http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/113
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112877
 ###EXTINF:-1 tvg-id="romedynow.in" tvg-name="Romedy Now" tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png" group-title="English Movies",Romedy Now
 ###http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/179.ts
 #EXTINF:-1 tvg-id="267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Movies",&pictures HD 
