@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/aajtak_hd.png?raw=true" group-title="News",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/abp_news.png?raw=true" group-title="News",ABP News
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/india_tv.png?raw=true" group-title="News",India TV
 https://ythls.armelin.one/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/wion.png?raw=true" group-title="News",WION
